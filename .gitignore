@@ -1,0 +1,17 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Account Service (Kotlin)/*
+!/Account Service (Kotlin)/task/
+/Account Service (Kotlin)/task/*
+!/Account Service (Kotlin)/task/src
+!/Account Service (Kotlin)/task/build.gradle
